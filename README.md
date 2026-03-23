@@ -17,3 +17,6 @@ https://github.com/sayemshark/git-practice
 
 ##Author
 sayemshark
+
+
+fix typo
